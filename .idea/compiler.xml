@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
         <module name="DiscoveryServer" />
+        <module name="configclient" />
         <module name="configserver" />
         <module name="service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="client" target="11" />
+      <module name="configclient" target="11" />
       <module name="configserver" target="11" />
       <module name="DiscoveryServer" target="11" />
       <module name="service" target="11" />
@@ -23,6 +25,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="DiscoveryServer" options="-parameters" />
       <module name="client" options="-parameters" />
+      <module name="configclient" options="-parameters" />
       <module name="configserver" options="-parameters" />
       <module name="service" options="-parameters" />
     </option>

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/discoveryserver/DiscoveryServer.iml" filepath="$PROJECT_DIR$/discoveryserver/DiscoveryServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring micro service example.iml" filepath="$PROJECT_DIR$/.idea/Spring micro service example.iml" />
       <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
     </modules>
